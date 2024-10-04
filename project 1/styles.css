@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: color #f0f0f0;
+}
+#interactive-box {
+width: 200px;
+height: 200px;
+background-color: #007bff;
+border-radius: 5px;
+transition: all 0.3s ease;
+cursor: pointer;
+
+
+}
